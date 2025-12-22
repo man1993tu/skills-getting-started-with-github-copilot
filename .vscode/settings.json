@@ -12,16 +12,6 @@
   },
   "github.copilot.editor.enableAutoCompletions": true,
   
-  // Show Copilot icon in the editor title bar
-  "workbench.editor.showIcons": true,
-  
-  // Ensure Copilot chat is accessible
-  "chat.editor.fontFamily": "default",
-  
-  // Python settings
-  "python.linting.enabled": true,
-  "python.linting.pylintEnabled": false,
-  
   // Editor settings
   "editor.suggestSelection": "first",
   "editor.inlineSuggest.enabled": true,
