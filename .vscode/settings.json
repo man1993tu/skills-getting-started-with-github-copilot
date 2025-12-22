@@ -1,0 +1,37 @@
+{
+  // GitHub Copilot Settings
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": true,
+    "plaintext": true,
+    "markdown": true,
+    "python": true,
+    "javascript": true,
+    "html": true,
+    "css": true
+  },
+  "github.copilot.editor.enableAutoCompletions": true,
+  
+  // Show Copilot icon in the editor title bar
+  "workbench.editor.showIcons": true,
+  
+  // Ensure Copilot chat is accessible
+  "chat.editor.fontFamily": "default",
+  
+  // Python settings
+  "python.defaultInterpreterPath": "/usr/local/bin/python",
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": false,
+  "python.formatting.provider": "none",
+  
+  // Editor settings
+  "editor.suggestSelection": "first",
+  "editor.inlineSuggest.enabled": true,
+  "editor.formatOnSave": false,
+  
+  // Files to exclude from explorer
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true
+  }
+}
