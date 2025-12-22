@@ -1,0 +1,18 @@
+{
+  // GitHub Copilot Settings
+  "github.copilot.enable": {
+    "*": true
+  },
+  "github.copilot.editor.enableAutoCompletions": true,
+  
+  // Editor settings
+  "editor.suggestSelection": "first",
+  "editor.inlineSuggest.enabled": true,
+  "editor.formatOnSave": false,
+  
+  // Files to exclude from explorer
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true
+  }
+}
