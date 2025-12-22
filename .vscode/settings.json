@@ -1,14 +1,7 @@
 {
   // GitHub Copilot Settings
   "github.copilot.enable": {
-    "*": true,
-    "yaml": true,
-    "plaintext": true,
-    "markdown": true,
-    "python": true,
-    "javascript": true,
-    "html": true,
-    "css": true
+    "*": true
   },
   "github.copilot.editor.enableAutoCompletions": true,
   
